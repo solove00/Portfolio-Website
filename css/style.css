@@ -10,11 +10,11 @@ html, body {
     overflow-x:hidden;
 }
 body {
-    font-family: "Raleway", Helvetica, Arial, sans-serif !important;
+    font-family: "Gudea",Helvetica, Arial, sans-serif !important;
     color:#333333;
 }
 h1, h2, h3, h4, h5, h6 {
-    font-family: "Raleway", Helvetica, Arial, sans-serif !important;
+    font-family: "Gudea",Helvetica, Arial, sans-serif !important;
 }
 h1 {
     font-size: 40px !important;
@@ -30,10 +30,9 @@ h3.title {
     letter-spacing: 2px;
     text-align:center;
     font-weight:700;
-    color: #EFD82A;
+    color: #F0640F;
 }
 h3.title.shaded {
-    color:#FFF;
     margin-top: 30px;
 }
 h4 {
@@ -86,7 +85,7 @@ header nav ul > li > a {
     letter-spacing: 1px;
 }
 header banner div#backyard {
-    background-color: #61D0AC;
+    background-color: #6AC465;
     overflow:hidden;
     margin:-12px 50px -20px 50px;
     padding:0;
@@ -116,7 +115,7 @@ header banner ul > li {
 }
 header banner ul > li > a {
     font-size: 16px;
-    color:#333333 !important;
+    color:#000000 !important;
 }
 @media (max-width: 480px) {
     header nav ul {
@@ -203,7 +202,7 @@ footer div.contact a {
     font-weight:700;
     text-decoration: none;
     padding:15px 40px !important;
-    background-color: #EFD82A;
+    background-color: #f0640f;
     border:2px solid #FFFFFF !important;
 }
 footer div.bottom p {
